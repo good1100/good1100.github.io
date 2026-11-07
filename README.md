@@ -1,7 +1,38 @@
-# 외길던전
+# dWorks
 
-길을 그려 던전을 돌파하는 퍼즐 게임, 외길던전의 개발자 페이지입니다.
+작은 아이디어를 오래 즐길 수 있는 게임으로 만듭니다.  
+dWorks에서 만드는 게임과 게임별 개인정보처리방침, 문의 방법을 안내합니다.
 
-## 개인정보처리방침
+## 게임 소개
 
-[개인정보처리방침 보기](https://github.com/good1100/onewaydungeon-privacy-policy/blob/main/onewaydungeon-privacy-policy.md)
+### 외길 던전 · One Way Dungeon
+
+길을 그려 던전을 돌파하는 퍼즐 게임입니다.
+
+- [개인정보처리방침](https://github.com/good1100/onewaydungeon-privacy-policy/blob/main/onewaydungeon-privacy-policy.md)
+
+### 옥탑 고양이 · RoofTop Cat
+
+탭과 좌우 쓸기로 지붕을 뛰어넘고, 구름과 우주까지 올라가는 고양이 아케이드 게임입니다.  
+다양한 고양이 스킨과 이동 효과를 모으며 나만의 최고 기록에 도전해 보세요.
+
+- [개인정보처리방침](https://github.com/good1100/RoofTopCat/blob/main/PRIVACY_POLICY.md)
+
+<!-- 새 게임을 추가할 때는 위와 같은 형식으로 게임 이름, 소개, 해당 게임의 개인정보처리방침 링크를 추가합니다. 공개된 스토어 링크가 있으면 함께 추가합니다. -->
+
+## 새로운 게임 소식
+
+앞으로 선보일 게임과 새로운 소식도 이 페이지에서 안내하겠습니다.
+
+## 문의
+
+게임 이용 중 궁금한 점이나 오류가 있다면 아래 이메일로 연락해 주세요.
+
+- **운영자:** dWorks
+- **이메일:** [dworks.st@gmail.com](mailto:dworks.st@gmail.com)
+
+문의 시 게임 이름과 사용 기기, 발생한 상황을 함께 알려주시면 확인에 도움이 됩니다. 비밀번호 등 민감한 정보는 보내지 마세요.
+
+## 개인정보처리방침 안내
+
+개인정보처리방침은 게임별로 제공됩니다. 위 게임 소개에 있는 해당 게임의 링크를 확인해 주세요.
